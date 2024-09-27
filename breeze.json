@@ -1,0 +1,12 @@
+{
+  "HomeSpecialDisplay": false,
+  "PathBg": 12,
+  "PathFg": 0,
+  "CwdFg": 0,
+  "RepoCleanFg": 0,
+  "RepoCleanBg": 35,
+  "RepoDirtyFg": 0,
+  "RepoDirtyBg": 11,
+  "CmdFailedFg": 255,
+  "CmdFailedBg": 9
+}
